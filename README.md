@@ -1,5 +1,6 @@
 # Code Snippet Library
 ## 🐍 Python Snippets
+- [hello world](hello.py)
 - [Loops in Python](loops.py)
 - [Recursion Example](recursion.py)
 ## ☕ Java Snippets
